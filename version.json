@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "apk_url": "https://drive.google.com/uc?export=download&id=1G0gelfS7pZlBkg0dT2W9KDOK3yZL2oge",
-  "message": "Pataisyta registracija, admin teisės ir duomenų sinchronizacija."
+  "version": "1.2.0",
+  "apk_url": "https://drive.google.com/uc?export=download&id=1mGEWt4DfkH8M2KZayU9hHNp4_otswfKX",
+  "message": "# Autoaibė Vairuotojų Sistema v1.2.0\n\n- Pridėtas realtime duomenų sinchronizavimas tarp įrenginių\n- Automatinis klientų ir maršrutų atsinaujinimas\n- Sukurtas vairuotojų chat su realtime žinutėmis\n- Pridėti PUSH notificationai Android įrenginiams\n- Push pranešimai chat žinutėms ir sistemos pranešimams\n- Notification paspaudimas dabar atidaro reikiamą ekraną\n- Sukurti atskiri notification channeliai (chat / sistema)\n- Pridėta mention sistema (@tabelioNumeris)\n- Pridėti notification badge skaičiukai\n- Perskaitytų pranešimų ir chat istorijos sekimas\n- Patobulintas auto-sync grįžus į programėlę\n- Sutvarkytas naujų vartotojų registravimas ir admin teisės\n- Pagerintas cloud duomenų sinchronizavimas\n- Stabilizuotas nuotraukų įkėlimas į Supabase Storage\n- Patobulintas šoninis Drawer meniu\n- Pridėtas programėlės versijos rodymas meniu apačioje\n- Pagerintas multi-device testavimas ir stabilumas"
 }
